@@ -1,0 +1,85 @@
+/*================================================
+                        GENERAL
+=================================================*/
+
+
+#preheader{
+	font-size: 10px;
+	text-align: center;
+
+}
+.preheader-row{
+	text-align: center;
+}
+
+#title-pic{
+	max-width: 100%;
+
+}
+#pic-title-text-button{
+	max-width: 100%;
+	text-align: center;
+}
+.title-first{
+	max-width: 100%
+	
+}
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}.
+
+#grid-section {
+max-width: 100%;
+height: auto;
+}
+
+.grid-container{
+max-width: 100%;
+height: auto;
+}
+
+.div-first-para{
+	max-width: 900px;
+	display: inline-block;
+}
+
+.first-para{
+	max-width: 900px;
+	text-align: justify-all;
+	text-align: center;
+}
+.grid-row1{
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+
+}
+
+.HikingGear1,.HikingGear2{
+	float:center;
+	width: 50%;
+	padding: 5px
+
+}
+@media screen and (max-width: 600px) {
+    .HikingGear1 {
+        width: 100%;
+    }
+}
+
+.grid-para1{
+	max-width: 250px;
+	display: inline-block;
+}
+
+#social-contact{
+	padding: 20px 5px 20px 5px;
+}
+
+.phone-email{
+	padding: 20px 5px 20px 5px;
+}
+
+.powered-logo{
+	padding: 20px 5px 20px 5px;	
+}

@@ -3,7 +3,8 @@
 =================================================*/
 
 //$(function(){ }); >> >> Alternate form below
-$(document).ready(function () {
+$(function () {
+    //https://mynameismatthieu.com/WOW/docs.html
     new WOW().init();
 });
 
@@ -17,3 +18,14 @@ $(document).ready(function () {
         }
     });
 });
+
+
+/*================================================
+                        TEAM
+=================================================*/
+
+$(function(){
+    
+$("#team-members").owlCarousel();
+} 
+ )
